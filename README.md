@@ -14,7 +14,7 @@ Forecast  Housing prices
 RNN 
 
 
-| Model      | R2 score | RMSE     | MAPE  | July |
-| :---        |    :----:   |          ---: |   ---:  |
-| Linear      | Title       | Here's this   |    |
-| Arime   | Text        | And more      |      |
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
