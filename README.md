@@ -9,12 +9,18 @@ Forecast  Housing prices
   * Arima 
   * Seasonal ARIMA
   * ARIMA with Exogenous variables
-  * profet
+  * prophet
   * 
 RNN 
 
 
-| Syntax | Description |
+| Model | RMSE |
 | --- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Linear | Title |
+| ARIMA |  |
+| Auto ARIMA |  |
+| prophet |  |
+| STLF |  |
+| Gradient boosting |  |
+| RNN |  |
+| ARIMA  with Exogenous|  |
