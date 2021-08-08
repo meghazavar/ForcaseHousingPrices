@@ -16,5 +16,5 @@ RNN
 
 | Model      | R2 score | RMSE     | MAPE  | July |
 | :---        |    :----:   |          ---: |   ---:  |
-| Linear      | Title       | Here's this   |    |. |
-| Arime   | Text        | And more      |      |.   |
+| Linear      | Title       | Here's this   |    |
+| Arime   | Text        | And more      |      |
