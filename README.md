@@ -11,12 +11,12 @@ Forecast  Housing prices
 
 
 | Model | RMSE | prediction 07/21|prediction 08/21|prediction 09/21|prediction 10/21|
-| --- | ----------- | --- | ---| ---|
-| Linear | Title | --- || |
-| ARIMA |  | --- || |
-| Auto ARIMA |  | --- || |
-| prophet |  | --- || |
-| STLF |  | --- | | |
-| Gradient boosting |  | --- || |
-| RNN |  | --- || |
-| ARIMA  with Exogenous|  | --- || |
+| --- | ----------- | --- | ---| ---|---|
+| Linear | Title | --- || |---|
+| ARIMA |  | --- || |---|
+| Auto ARIMA |  | --- || |---|
+| prophet |  | --- || |---|
+| STLF |  | --- | | |---|
+| Gradient boosting |  | --- || |---|
+| RNN |  | --- || |---|
+| ARIMA  with Exogenous|  | --- || |---|
