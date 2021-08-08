@@ -10,13 +10,13 @@ Forecast  Housing prices
 3.  Test data. -  last 20 %
 
 
-| Model | RMSE | prediction 07/21|
-| --- | ----------- | --- |
-| Linear | Title | --- |
-| ARIMA |  | --- |
-| Auto ARIMA |  | --- |
-| prophet |  | --- |
-| STLF |  | --- |
-| Gradient boosting |  | --- |
-| RNN |  | --- |
-| ARIMA  with Exogenous|  | --- |
+| Model | RMSE | prediction 07/21|prediction 08/21|prediction 09/21|prediction 10/21|
+| --- | ----------- | --- | | |
+| Linear | Title | --- || |
+| ARIMA |  | --- || |
+| Auto ARIMA |  | --- || |
+| prophet |  | --- || |
+| STLF |  | --- | | |
+| Gradient boosting |  | --- || |
+| RNN |  | --- || |
+| ARIMA  with Exogenous|  | --- || |
