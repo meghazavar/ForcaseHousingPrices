@@ -3,24 +3,20 @@ Forecast  Housing prices
 
 
 
-###  Forecasting models
+###  Approach
 
-  * Linear Model
-  * Arima 
-  * Seasonal ARIMA
-  * ARIMA with Exogenous variables
-  * prophet
-  * 
-RNN 
+1.  choose forecasting model
+2.  Training data.  - first 80%
+3.  Test data. -  last 20 %
 
 
-| Model | RMSE |
-| --- | ----------- |
-| Linear | Title |
-| ARIMA |  |
-| Auto ARIMA |  |
-| prophet |  |
-| STLF |  |
-| Gradient boosting |  |
-| RNN |  |
-| ARIMA  with Exogenous|  |
+| Model | RMSE | prediction 07/21|
+| --- | ----------- | --- |
+| Linear | Title | --- |
+| ARIMA |  | --- |
+| Auto ARIMA |  | --- |
+| prophet |  | --- |
+| STLF |  | --- |
+| Gradient boosting |  | --- |
+| RNN |  | --- |
+| ARIMA  with Exogenous|  | --- |
